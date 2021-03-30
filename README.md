@@ -7,7 +7,7 @@ Hello, my name is Niko Kuusimaa I am 21 years old, student at Centria University
 [![Linkedin Badge](https://img.shields.io/badge/-Niko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niko-kuusimaa-b6587620a/)
 [![Mail Badge](https://img.shields.io/badge/-kuusimaaniko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kuusimaaniko@gmail.com)
 
-- 🔭 I’m currently studying at @Centria University of Applied Sciences
+- 🔭 I’m currently studying @Centria University of Applied Sciences
 - 🤔 I’m looking to learn more about software development.
 - 📫 How to reach me: kuusimaaniko@gmail.com.
 
