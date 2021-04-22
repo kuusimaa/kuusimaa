@@ -17,7 +17,7 @@ Hello, my name is Niko Kuusimaa I am 21 years old, student at Centria University
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=lightorange)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=blue)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  [![MySQL Badge](https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&labelColor=black&logo=mysql&logoColor=lightblue)](#) [![MongoDB badge](https://img.shields.io/badge/-Mongodb-lightgreen?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=lightgreen)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuusimaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuusimaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Profile Visits 
